@@ -30,3 +30,6 @@ node_modules
 
 #VS CODE
 .history
+
+# main.js
+main.js
